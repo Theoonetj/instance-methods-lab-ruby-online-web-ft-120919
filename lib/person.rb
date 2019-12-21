@@ -4,6 +4,6 @@ class Person
     puts "Hello World!"
   end 
   def walk
-    puts "The person is talking"
+    puts "The person is walking"
   end
  end 
